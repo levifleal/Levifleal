@@ -1,17 +1,7 @@
-# Levi Ferreira Leal ([ Levifleal ](https://github.com/levifleal))  
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=levifleal&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-### Redes Sociais
+### Olá, meu nome é Levi Leal!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levifleal/)  
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/levifleal/)  
+<img src="https://img.shields.io/static/v1?label=Overview&message=Levifleal&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-
-### Meus Status
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=levifleal&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=false&title_color=E94D5F&text_color=FFF&hide_title=true)  
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=levifleal&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
-### Meus Streaks
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=levifleal&theme=wolf&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+<p> Eu sou desenvolvedor Front-End</p>
